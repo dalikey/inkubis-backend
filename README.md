@@ -1,3 +1,9 @@
+# Inkubis
+
+Het een groepsproject dat Junhao voor serverside had geprogrammeerd is
+gemaakt in Typescript, HTML, CSS in combinatie met het Angular
+framework. Met als de backend op phpMyAdmin voor MySQL gehost.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
